@@ -2,12 +2,12 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Tamás Virág
-Mechatronics engineer
+# sir Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="viragtomi93@gmail.com">viragtomi93@gmail.com</a>
-| <a href="https://github.com/drChungus">My GitHub site</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
@@ -17,7 +17,7 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking Robert Hooke
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
